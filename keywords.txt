@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map For ACS712
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ACS712_ADS1115	KEYWORD1
+ACS712_variant	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+measureZeroPointVoltage	KEYWORD2
+setZeroPointVoltage		KEYWORD2
+setSensitivity			KEYWORD2
+setADS1115				KEYWORD2
+getCurrentDC			KEYWORD2
+getCurrentDCMilliamps 	KEYWORD2
+calculateSensitivity    KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+ACS712_05B	LITERAL1
+ACS712_20A	LITERAL1
+ACS712_30A	LITERAL1
